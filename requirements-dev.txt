@@ -1,0 +1,5 @@
+-r requirements.txt
+ruff>=0.10
+mypy
+pytest
+openai>=3.26,<4   # scripts/revisor_ci.py: el harness lo necesita aunque el proyecto no use OpenAI

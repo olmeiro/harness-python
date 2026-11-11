@@ -1,0 +1,1 @@
+# Dependencias para ejecutar el proyecto. Las del gate van en requirements-dev.txt.
